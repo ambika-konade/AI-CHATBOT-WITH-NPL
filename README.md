@@ -39,3 +39,4 @@ Overall, the workings of NLP chatbots involve a combination of text processing, 
 
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/1e45a6ae-1600-4ab0-9f41-bc33fd4f7be1)
